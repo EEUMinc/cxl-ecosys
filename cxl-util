@@ -1,0 +1,2 @@
+#!/bin/bash
+poetry run python cxl_ecosys/bin/cli.py "$@"
